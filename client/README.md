@@ -5,7 +5,6 @@ Show the list of mentors ![alt 'mentor list'](https://github.com/AlexThon/Soma/b
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Mentor send message to a student ![alt 'send message'](https://github.com/AlexThon/Soma/blob/main/client/doc/chatbox.png).
 
 ## Available Scripts
 
