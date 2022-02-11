@@ -1,4 +1,4 @@
-Show the list of mentors ['mentor list'](https://github.com/AlexThon/Soma/blob/main/client/doc/Screen%20Shot%202022-02-11%20at%202.24.26%20PM.png).
+Show the list of mentors ![alt 'mentor list'](https://github.com/AlexThon/Soma/blob/main/client/doc/Screen%20Shot%202022-02-11%20at%202.24.26%20PM.png).
 
 
 
