@@ -1,15 +1,11 @@
 Show the list of mentors ![alt 'mentor list'](https://github.com/AlexThon/Soma/blob/main/client/doc/Screen%20Shot%202022-02-11%20at%202.24.26%20PM.png).
 
-Mentor send message to a student ![alt 'send message'](https://github.com/AlexThon/Soma/blob/main/client/doc/chatbox.png).
-
-
-
-
-
 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Mentor send message to a student ![alt 'send message'](https://github.com/AlexThon/Soma/blob/main/client/doc/chatbox.png).
 
 ## Available Scripts
 
